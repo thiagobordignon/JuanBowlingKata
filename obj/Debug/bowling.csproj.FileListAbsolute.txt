@@ -1,0 +1,2 @@
+c:\users\tbordignon\documents\visual studio 2015\Projects\bowling\bowling\bin\Debug\bowling.exe.config
+c:\users\tbordignon\documents\visual studio 2015\Projects\bowling\bowling\obj\Debug\bowling.csprojResolveAssemblyReference.cache

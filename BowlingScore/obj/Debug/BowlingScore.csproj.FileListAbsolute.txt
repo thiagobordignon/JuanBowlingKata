@@ -1,0 +1,5 @@
+c:\Users\tbordignon\documents\visual studio 2015\Projects\bowling\BowlingScore\bin\Debug\BowlingScore.exe.config
+c:\Users\tbordignon\documents\visual studio 2015\Projects\bowling\BowlingScore\bin\Debug\BowlingScore.exe
+c:\Users\tbordignon\documents\visual studio 2015\Projects\bowling\BowlingScore\bin\Debug\BowlingScore.pdb
+c:\Users\tbordignon\documents\visual studio 2015\Projects\bowling\BowlingScore\obj\Debug\BowlingScore.exe
+c:\Users\tbordignon\documents\visual studio 2015\Projects\bowling\BowlingScore\obj\Debug\BowlingScore.pdb
